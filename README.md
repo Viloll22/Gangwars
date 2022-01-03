@@ -8,7 +8,7 @@ Mod de Gangwars para FiveM como en SA-MP usando mapas de folletos
 - (Trabajo en curso) sistema hospitalario integrado
 
 ## Captura de pantalla
-[Diseño de mapa y zona] (https://image.prntscr.com/image/0Ykhe7TRTu6kqafKkkOtkQ.png)
+[Diseño de mapa y zona] (https://prnt.sc/25ti6w1)
 
 ## Requisitos
 [Sistema de niveles] (https://github.com/Fisers/FiveM-Levelsystem) (Para la gestión de cuentas)
